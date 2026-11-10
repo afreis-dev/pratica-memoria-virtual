@@ -1,0 +1,9 @@
+id,so,modo,tamanho_mb,n,media,mediana,desvio,minimo,maximo,ic95_inf,ic95_sup,faltas_maiores_media,swap_ativo
+arthur-matheus,Windows,cheio,256,5,0.392346,0.399909,0.024298,0.349435,0.409216,0.362181,0.422512,,não
+arthur-matheus,Windows,cheio,512,5,0.396445,0.394316,0.004539,0.391822,0.401856,0.39081,0.40208,,não
+arthur-matheus,Windows,cheio,1024,5,0.355088,0.355016,0.002624,0.352136,0.359223,0.35183,0.358345,,não
+arthur-matheus,Windows,cheio,2048,5,0.363606,0.363391,0.004878,0.357448,0.371089,0.357551,0.369661,,não
+arthur-matheus,Windows,cheio,4096,5,0.37382,0.365473,0.025771,0.356673,0.419389,0.341827,0.405814,,não
+arthur-matheus,Windows,cheio,8192,1,0.416118,0.416118,0.0,0.416118,0.416118,0.416118,0.416118,,sim
+arthur-matheus,Windows,cheio,16384,1,0.957736,0.957736,0.0,0.957736,0.957736,0.957736,0.957736,,sim
+arthur-matheus,Windows,cheio,20224,1,1.342992,1.342992,0.0,1.342992,1.342992,1.342992,1.342992,,sim
