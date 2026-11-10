@@ -1,0 +1,2 @@
+id,so,so_versao,arquitetura,cpu,nucleos_logicos,ram_total_mb,tamanho_pagina_bytes,python,data_hora,script,parametros,ram_disponivel_mb,ram_livre_mb,swap_total_mb,swap_usado_mb,especificacao_ram,clock_real_mhz,latencia_ns,vazao_gb_s_por_canal
+arthur-matheus,Windows,Windows 11 (10.0.26200),AMD64,Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz,12,16202,4096,3.14.10,2026-11-10T18:30:09,01_inspecionar_memoria,mts=3200.0 cl=16.0,7664,7664,22511,5818,8GB 2733MT/s (configurada 2733); 8GB 2733MT/s (configurada 2733),1600.0,10.0,25.6
